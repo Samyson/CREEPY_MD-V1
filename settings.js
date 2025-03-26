@@ -8,12 +8,12 @@ const chalk = require('chalk')
 //contact details
 global.ownernomer = "255697608274"
 global.ownername = "𝐷𝛥𝛮𝛮𝑌"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernumber = '50941481424'  //owner number 2
 //put your phone number above
 //let the owner as Danny or you can just put your name
 
 //custom prefix
-global.prefa = [',','!','.','#','&']
+global.prefa = [.]
 //above is a prefix for activating bot
 
 //false=disable and true=enable
