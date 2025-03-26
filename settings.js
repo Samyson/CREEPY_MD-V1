@@ -13,7 +13,7 @@ global.ownernumber = '255697608274'  //owner number 2
 //let the owner as Danny or you can just put your name
 
 //custom prefix
-global.prefa = [',','!','.','#','&']
+global.prefa = [.]
 //above is a prefix for activating bot
 
 //false=disable and true=enable
